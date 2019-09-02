@@ -1,0 +1,10 @@
+{
+  "integrationFolder": "cypress/integration",
+  "fixturesFolder": "cypress/fixtures",
+  "pluginsFile": "cypress/plugins",
+  "supportFile": "cypress/support",
+  "baseUrl": "https://www.cosmopolitan.com/",
+  "modifyObstructiveCode": false,
+  "chromeWebSecurity": false,
+  "projectId": "m81tus"
+}
