@@ -1,7 +1,7 @@
 /* global cy */
 const data = require('../../../sheared/data')
 
-describe('Verify SEO tags cosmopolitan website:', () => {
+describe('Verify The Visibility Of SEO Tags Cosmopolitan Website', () => {
     before(() => {
         cy.visit(data.article_url);
     });
@@ -25,7 +25,7 @@ describe('Verify SEO tags cosmopolitan website:', () => {
     });
 });
 
-describe('Verify Share tags in the header of cosmopolitan website:', () => {
+describe('Verify The Presences And Values of Shared Meta Tags In The Header Of Cosmopolitan Website', () => {
 
     before(() => {
         cy.visit(data.article_url);
