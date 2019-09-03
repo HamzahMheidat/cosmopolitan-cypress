@@ -7,7 +7,7 @@ const shareMetaTags = [
     { name: 'og:image', content: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/types-of-coats-1566328324.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*' },
     { name: 'og:url', content: 'https://www.cosmopolitan.com/style-beauty/fashion/g28749279/types-of-coats/' }
 ];
-const article_url = 'style-beauty/fashion/g28749279/types-of-coats/';
+const article_url = '/style-beauty/fashion/g28749279/types-of-coats/';
 const title = '27 Types of Coats and Jackets - What Are the Types of Coats?';
 
 module.exports = {
